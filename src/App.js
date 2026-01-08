@@ -352,7 +352,7 @@ const Portfolio = () => {
               <h3 className="font-semibold mb-2">Phone</h3>
               <p className="text-gray-400 text-sm">+91 9182510712</p>
             </a>
-            <a href="https://www.linkedin.com/in/arpan-suji-5b12431a7"  target="_blank"  rel="noopener noreferrer" className="bg-gray-800/50 rounded-xl p-6 hover:bg-gray-800/70 transition-all duration-300">
+            <a href="https://www.linkedin.com/in/arpan-suji-6253671a6/"  target="_blank"  rel="noopener noreferrer" className="bg-gray-800/50 rounded-xl p-6 hover:bg-gray-800/70 transition-all duration-300">
               <Linkedin className="mx-auto mb-4 text-blue-400" size={32} />
               <h3 className="font-semibold mb-2">LinkedIn</h3>
               <p className="text-gray-400 text-sm">Connect with me</p>
